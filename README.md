@@ -141,12 +141,14 @@ Real / Fake Classification
 
 ## Generated Audio Samples
 
-Generated audio files are available in the `generated_audio` directory.
+Generated audio outputs produced by the trained SpecGAN model are available in the `generated_audio` directory.
 
 Examples:
 
-- generated_clean_denoised.wav
-- generated_clean_denoised_eq.wav
+- [generated_clean_denoised.wav](Results/generated_03.wav)
+- [generated_clean_denoised_eq.wav](Results/generated_15.wav)
+
+These samples demonstrate the model's ability to synthesize realistic orca vocalization patterns from generated spectrograms.
 
 ---
 
