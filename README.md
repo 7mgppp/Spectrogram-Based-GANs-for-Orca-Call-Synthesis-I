@@ -24,7 +24,7 @@ The complete pipeline includes:
 ## Sample Outputs
 
 <p align="center">
-  <img src="Results/samples/samples_epoch_060.png" width="800">
+  <img src="Results/samples_epoch_060.png" width="800">
 </p>
 
 ---
