@@ -118,7 +118,7 @@ Real / Fake Classification
 ### Generator and Discriminator Loss
 
 <p align="center">
-  <img src="Results/loss_curve.png" width="700">
+  <img src="Results/loss_curve_full.png" width="700">
 </p>
 
 ### Training Progress
