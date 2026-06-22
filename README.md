@@ -121,12 +121,6 @@ Real / Fake Classification
   <img src="Results/loss_curve_full.png" width="700">
 </p>
 
-### Training Progress
-
-<p align="center">
-  <img src="Results/training_progress.png" width="700">
-</p>
-
 ---
 
 ## Spectrogram Comparison
@@ -134,13 +128,13 @@ Real / Fake Classification
 ### Real Spectrograms
 
 <p align="center">
-  <img src="Results/real_spectrograms.png" width="700">
+  <img src="Results/OS_7_05_2019_08_24_00_.png" width="700">
 </p>
 
 ### Generated Spectrograms
 
 <p align="center">
-  <img src="Results/generated_spectrograms.png" width="700">
+  <img src="Results/samples_epoch_060.png" width="700">
 </p>
 
 ---
